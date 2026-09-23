@@ -1,4 +1,4 @@
-# ttk-dark-theme
+[# ttk-dark-theme
 
 <a href="#polski">🇵🇱 Polski</a> | <a href="#english">🇬🇧 English</a>
 
@@ -147,3 +147,4 @@ A demo window opens with two tabs showcasing every styled widget: `Entry`, `Comb
 This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**. The full license text is available in [`LICENSE.txt`](./LICENSE.txt) in the repository root.
 
 <a href="#ttk-dark-theme">⬆ back to top</a>
+](https://github.com/RafalKobylecki/ttk-dark-theme.git)
